@@ -1,1 +1,1 @@
-# otus-cpp-basics
+# Repository to make CPP homeworks
